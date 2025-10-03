@@ -1,5 +1,6 @@
 type: item
 name: Cupride
+description: A slightly charged product acquired through oxidizing copper. Cupride has an unique property that makes it able to redirect or contain gas inside it. These properties make it useful in building (especially gas-based turrets) and as corrosive and expansive ammunition.
 flammability: 0
 explosiveness: 0
 radioactivity: 0
@@ -14,4 +15,5 @@ research: {
   ]
 }
 hiddenOnPlanets: [serpulo, erekir]
+
 
