@@ -1,5 +1,6 @@
 type: item
 name: Scrap
+description: A common material composed of many different metals. It's used in general building and in unit production.
 flammability: 0.1
 explosiveness: 0
 radioactivity: 0
@@ -15,5 +16,7 @@ research: {
   ]
 }
 hiddenOnPlanets: [serpulo, erekir]
+
+
 
 

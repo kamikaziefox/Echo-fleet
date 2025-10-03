@@ -25,3 +25,8 @@ requirements: [
 
 
 research: 03k-06-defense-echo-shard-wall
+researchCost: [
+  01a-06-item-europium/120
+  01a-09-item-echo-shard/100
+  01a-12-item-resonance-matrix/40
+]

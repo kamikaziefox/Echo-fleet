@@ -21,3 +21,8 @@ requirements: [
 
 
 research: 03k-08-defense-alluminum-polycarbonate-wall
+researchCost: [
+  01a-06-item-europium/240
+  01a-09-item-echo-shard/320
+  01a-11-item-alluminum-polycarbonate/240
+]

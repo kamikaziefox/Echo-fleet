@@ -18,3 +18,7 @@ requirements: [
 
 
 research: 03k-03-defense-alluminum-wall
+researchCost: [
+  01a-04-item-alluminum/40
+  01a-07-item-polycarbonate/60
+]

@@ -17,3 +17,7 @@ requirements: [
 
 
 research: 03k-04-defense-europium-wall
+researchCost: [
+  01a-04-item-alluminum/160
+  01a-06-item-europium/240
+]

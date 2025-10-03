@@ -40,3 +40,7 @@ destroyBullet: {
 
 
 research: 03k-06-defense-echo-shard-wall
+researchCost: [
+  01a-04-item-alluminum/200
+  01a-09-item-echo-shard/320
+]

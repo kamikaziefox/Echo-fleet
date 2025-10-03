@@ -11,7 +11,7 @@ outputsPower: false
 hasPower: true
 consumePower: true
 conductivePower: true
-buildTime: 72
+buildTime: 432
 category: defense
 
 
@@ -28,3 +28,8 @@ consumes: {
 
 
 research: 03k-07-defense-electric-wall
+researchCost: [
+  01a-04-item-alluminum/160
+  01a-06-item-europium/240
+  01a-10-item-echo-circuit/160
+]

@@ -40,3 +40,7 @@ destroyBullet: {
 
 
 research: 03k-04-defense-europium-wall
+researchCost: [
+  01a-04-item-alluminum/50
+  01a-09-item-echo-shard/80
+]

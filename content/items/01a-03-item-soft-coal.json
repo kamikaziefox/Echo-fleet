@@ -1,5 +1,6 @@
 type: item
 name: Soft Coal
+description: A simple fuellant, acquired through refinement processes as a byproduct. Composed of mostly carbon and oxygen, it's an essential rudimentary feul due to it's flammability.
 flammability: 1
 explosiveness: 0.2
 radioactivity: 0
@@ -14,4 +15,6 @@ research: {
   ]
 }
 hiddenOnPlanets: [serpulo, erekir]
+
+
 
